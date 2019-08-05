@@ -65,7 +65,6 @@
         android:layout_marginEnd="@dimen/txt_margin_standard"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnImage"
-        app:srcCompat="@android:color/transparent" />
+        app:layout_constraintTop_toBottomOf="@+id/btnImage" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

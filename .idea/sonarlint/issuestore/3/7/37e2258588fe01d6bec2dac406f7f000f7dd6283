@@ -1,0 +1,7 @@
+
+P"squid:SwitchLastCaseIsDefaultCheckN""Add a default case to this switch.(¿›İ”
+Ksquid:S1068 "4Remove this unused "firebaseDatabase" private field.(­Õğ»
+Qsquid:S1068!"5Remove this unused "databaseReference" private field.(Ï¨Î·ùÿÿÿÿ
+Isquid:S1068""2Remove this unused "mChildListener" private field.(áàÁë
+Esquid:S1068$".Remove this unused "travelDeal" private field.(äÃÙª
+bsquid:S1301N"KReplace this "switch" statement by "if" statements to increase readability.(¿›İ”

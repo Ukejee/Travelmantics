@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "835764818968",
+    "firebase_url": "https://travelmantics-ukejee.firebaseio.com",
+    "project_id": "travelmantics-ukejee",
+    "storage_bucket": "travelmantics-ukejee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835764818968:android:bc04b008ac537a8e",
+        "android_client_info": {
+          "package_name": "com.ukejee.tutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835764818968-tjqf7lrf0hb583q35f1isha18c2hhh7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ukejee.tutorials",
+            "certificate_hash": "7ea2f486d0c56f3145ad325a46888ee302e01a98"
+          }
+        },
+        {
+          "client_id": "835764818968-b0ilnbuqqghq4du7fnbakpbcclgc7jsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATMOJgwJtefSyykn01osADf3OECIli7Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835764818968-b0ilnbuqqghq4du7fnbakpbcclgc7jsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
